@@ -2,14 +2,10 @@
 
 NextRole is a web application built with Next.js that analyzes uploaded CVs, providing insights and recommendations to improve alignment with job roles. The application includes key features like ATS readiness analysis, scoring, and tailored improvement suggestions powered by Google Gemini AI.
 
-<img width="1901" height="907" alt="SS_Analyzer" src="https://github.com/user-attachments/assets/366105d6-eff8-45b6-a262-1335c164a861" />
-
-<img width="1903" height="905" alt="SS_dash1" src="https://github.com/user-attachments/assets/11052969-d81f-4f41-8c0c-5da0d12cc2d9" />
-
-<img width="1753" height="562" alt="SS_dash2" src="https://github.com/user-attachments/assets/eca2e728-caea-48bb-b895-571d316c0639" />
-
-<img width="797" height="263" alt="SS_Scanning" src="https://github.com/user-attachments/assets/568bff89-c7d4-45ec-8bd0-1fde4bc73f9a" />
-
+![Home Page](./public/assets/SS_Analyzer.png)
+![Dashboard Overview](./public/assets/SS_dash1.png)
+![Detailed Analysis](./public/assets/SS_dash2.png)
+![Scanning Process](./public/assets/SS_Scanning.png)
 
 ## Features
 
@@ -83,5 +79,4 @@ We welcome contributions to improve this project. To contribute:
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature-name`).
 5. Open a Pull Request.
-
 
